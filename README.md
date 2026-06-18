@@ -2,11 +2,11 @@
 
 An ethical AI prototype for a university mental health concierge that connects students with CAPS (Counseling & Psychological Services) resources through a secure chat interface.
 
-## 🎯 Project Overview
+## Project Overview
 
 This web application provides a chat interface that connects to an IBM watsonx Orchestrate (wxO) agent to help SJSU students find mental health resources including booking, drop-in services, and crisis support. The system follows strict ethical AI guidelines: transparency, user consent, privacy, fairness, and safety.
 
-## 🏗️ Architecture
+## Architecture
 
 - **Frontend**: React + Vite + TypeScript + TailwindCSS
 - **Backend**: Express + TypeScript (Node 20)
@@ -16,7 +16,7 @@ This web application provides a chat interface that connects to an IBM watsonx O
   - `/api` - Backend API server
   - `/types` - Shared TypeScript interfaces
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 20+
@@ -51,7 +51,7 @@ pnpm dev:web    # Frontend only
 pnpm dev:api    # Backend only
 ```
 
-## 🔧 Environment Variables
+## Environment Variables
 
 ```env
 # Backend
@@ -63,7 +63,7 @@ NODE_ENV=development
 VITE_API_URL=http://localhost:3001
 ```
 
-## 📋 Features
+## Features
 
 ### ✅ Implemented
 - [x] Monorepo setup with pnpm workspaces
@@ -78,7 +78,7 @@ VITE_API_URL=http://localhost:3001
 - [ ] Email planning tools
 - [ ] Check-in preview system
 
-## 🛡️ Ethical AI Principles
+## Ethical AI Principles
 
 This application follows strict ethical guidelines:
 
@@ -89,10 +89,10 @@ This application follows strict ethical guidelines:
 - **Safety**: Crisis-first logic with immediate support options
 - **Accountability**: Visible explanation of resource selection
 
-## 📁 Project Structure
+## Project Structure
 
 ```
-SamSamSupport/
+SpartanSupport/
 ├── web/                    # React frontend
 │   ├── src/
 │   │   ├── components/     # React components
@@ -113,7 +113,7 @@ SamSamSupport/
 └── package.json          # Root package.json
 ```
 
-## 🧪 Development
+## Development
 
 ```bash
 # Install dependencies
@@ -136,11 +136,11 @@ If you or someone you know is in crisis:
 - **National Suicide Prevention Lifeline**: 988
 - **Crisis Text Line**: Text HOME to 741741
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
-## 🤝 Contributing
+## Contributing
 
 This is a university prototype project. For contributions, please contact the development team.
 
