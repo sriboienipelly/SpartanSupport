@@ -26,8 +26,8 @@ This web application provides a chat interface that connects to an IBM watsonx O
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/arkul07/SamSamSupport.git
-cd SamSamSupport
+git clone https://github.com/sriboienipelly/SpartanSupport.git
+cd SpartanSupport
 ```
 
 2. Install dependencies:
