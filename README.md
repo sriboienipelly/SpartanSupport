@@ -80,7 +80,7 @@ VITE_API_URL=http://localhost:3001
 ## Sample Use Cases
 ![image alt](https://github.com/sriboienipelly/SpartanSupport/blob/8810372b8f8e923d3cb3a7bbccd65522c5f9a480/image.png)
 
-<img src="https://github.com/sriboienipelly/SpartanSupport/blob/8810372b8f8e923d3cb3a7bbccd65522c5f9a480/image.png" width="100" height="100"/>
+<img src="https://github.com/sriboienipelly/SpartanSupport/blob/8810372b8f8e923d3cb3a7bbccd65522c5f9a480/image.png" width="500" height="500"/>
 
 ## Ethical AI Principles
 
