@@ -74,9 +74,11 @@ VITE_API_URL=http://localhost:3001
 - [x] IBM watsonx Orchestrate integration
 
 ### 🔄 In Progress
-- [ ] Real-time chat functionality
 - [ ] Email planning tools
 - [ ] Check-in preview system
+
+## Sample Use Cases
+
 
 ## Ethical AI Principles
 
